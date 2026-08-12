@@ -8,6 +8,8 @@ A recruitment-funnel CRM with IVR-integrated candidate tracking, position-requis
 
 ## Try it
 
+**🔗 Live demo: https://manu3511.github.io/Recruitment_Analytics/**
+
 Demo accounts (password for all: `demo1234`):
 
 | Role | Email |
